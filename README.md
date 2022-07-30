@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  SvelteKit Intersection Observer
+  Svelte Video Blog 
 </h1>
 
 # svelte-video blog
